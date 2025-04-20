@@ -50,4 +50,4 @@ My main IDE's
 Support me on ko-fi or Patreon if you like my work :)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U1XZHXW)
-[Patreon](https://patreon.com/FranzFischer?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
+[![Patreon](https://raw.githubusercontent.com/FranzFischer78/FranzFischer78/refs/heads/main/PatreonButton.svg)](https://patreon.com/FranzFischer?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
