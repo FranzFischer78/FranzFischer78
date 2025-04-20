@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="220" height="60">
-  <rect width="220" height="60" rx="8" fill="#f96854"/>
+  <rect width="220" height="30" rx="8" fill="#f96854"/>
   <g transform="translate(10, 10)">
     <!-- Patreon logo -->
     <circle cx="25" cy="20" r="20" fill="#f96854"/>
